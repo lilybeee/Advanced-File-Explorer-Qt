@@ -1,0 +1,16 @@
+# Qt Creator generated files
+*.user
+*.user.*
+
+# CMake build outputs
+/build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+FileExplorer
+*.o
+*.a
+*.so
