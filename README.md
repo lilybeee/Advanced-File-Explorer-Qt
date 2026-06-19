@@ -1,4 +1,4 @@
-# Advanced Multi-Threaded File Explorer (Qt/C++)
+# Multi-Threaded File Explorer (Qt/C++)
 
 A high-performance, asynchronous desktop file navigator engineered using the **Qt framework** and **Modern C++**. This utility features real-time background search scanning and dynamic UI layout nesting, keeping the main interface completely fluid and non-blocking during intensive file-system IO operations.
 
